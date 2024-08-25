@@ -6,7 +6,8 @@
     header{
         padding:0 1.5rem;
     }
-    .consultCart{
+    .consultCart, .position-img{
         display: none;
     }
+
   }
