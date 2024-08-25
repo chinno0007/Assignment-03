@@ -1,0 +1,12 @@
+.manrope{
+    font-family: "Manrope", sans-serif;
+  }
+
+  @media only screen and (max-width:640px){
+    header{
+        padding:0 1.5rem;
+    }
+    .consultCart{
+        display: none;
+    }
+  }
